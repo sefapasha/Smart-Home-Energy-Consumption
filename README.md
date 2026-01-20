@@ -90,18 +90,23 @@ Veri %80 Eğitim - %20 Test olarak ayırdım. Modeller üzerinde eğittim
 <img width="882" height="22" alt="image" src="https://github.com/user-attachments/assets/d2906028-c9d3-4d81-b99d-20e9fde43271" />
 
 -Logisctic Regresyon-
+
 <img width="501" height="375" alt="o1" src="https://github.com/user-attachments/assets/439fde4d-3853-491f-bb61-417d4e42adf1" />
 
 %72.37 Doğruluk ile modeller arasında en kötü model seçildi.
+
 -KNN-
+
 <img width="492" height="328" alt="o2" src="https://github.com/user-attachments/assets/f5ea1616-34e8-4885-b4f1-509d13fa0322" />
 
 %79.09 ile orta iyi seçildi.
 
 -Random Forest-
+
 <img width="487" height="332" alt="o3" src="https://github.com/user-attachments/assets/cda213cc-d678-47fb-8227-275bcf88f9e2" />
 
 %81.33 ile modeller arasında en başarılı sonucu RF verdi.
+
 <img width="467" height="67" alt="o4" src="https://github.com/user-attachments/assets/6c99ca7c-7bd6-4610-80f8-9dab7cc6d20b" />
 
 
