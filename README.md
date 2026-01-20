@@ -39,14 +39,14 @@ Smart Home Dataset.csv
 # Pivot Kullanımı
 Bu projede anomalinin tanımı rasgele yapılmamıştır. Bunun yerine beklenen (baseline) tüketim hesaplanmıştır.
 
-Oluşturulan Pivot Tabloları
--
+-Oluşturulan Pivot Tabloları-
+
 <img width="349" height="167" alt="image" src="https://github.com/user-attachments/assets/4766097f-ebf7-4e36-a31a-5412c4092e96" />
--
+
 <img width="380" height="165" alt="image" src="https://github.com/user-attachments/assets/c76d0a87-f8a1-443a-90fe-c27093962af4" />
--
+
 <img width="391" height="163" alt="image" src="https://github.com/user-attachments/assets/1a106fd2-8e7b-4273-a501-88d275404c67" />
--
+
 # Baseline Tüketim Hesabı
 Verimizdeki her satır için ort tüketimi hesaplamak için:
 
