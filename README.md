@@ -18,9 +18,13 @@ Smart Home Dataset.csv
 
 # Features
 -Zaman
+
 -Sıcaklık
+
 -Nem
+
 -basınç
+
 -Rüzgar
 ...
 
