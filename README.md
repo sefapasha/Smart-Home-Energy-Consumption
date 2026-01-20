@@ -49,6 +49,7 @@ Bu projede anomalinin tanımı rasgele yapılmamıştır. Bunun yerine beklenen 
 
 # Baseline Tüketim Hesabı
 Verimizdeki her satır için ort tüketimi hesaplamak için:
+
 <img width="268" height="132" alt="image" src="https://github.com/user-attachments/assets/ea22c822-ffb7-478f-9247-7ec532347388" />
 Bu şekilde sıcaklık,nem,saat eşit bir şekilde kullanıma etki etmiştir.
 
