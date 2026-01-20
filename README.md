@@ -89,21 +89,21 @@ Veri %80 Eğitim - %20 Test olarak ayırdım. Modeller üzerinde eğittim
 
 <img width="882" height="22" alt="image" src="https://github.com/user-attachments/assets/d2906028-c9d3-4d81-b99d-20e9fde43271" />
 
-#Logisctic Regresyon
+Logisctic Regresyon
 
 <img width="501" height="375" alt="o1" src="https://github.com/user-attachments/assets/439fde4d-3853-491f-bb61-417d4e42adf1" />
 
 %72.37 Doğruluk ile modeller arasında en kötü model seçildi.
 
 
-#KNN
+KNN
 
 <img width="492" height="328" alt="o2" src="https://github.com/user-attachments/assets/f5ea1616-34e8-4885-b4f1-509d13fa0322" />
 
 %79.09 ile orta iyi seçildi.
 
 
-#Random Forest
+Random Forest
 
 <img width="487" height="332" alt="o3" src="https://github.com/user-attachments/assets/cda213cc-d678-47fb-8227-275bcf88f9e2" />
 
@@ -112,7 +112,29 @@ Veri %80 Eğitim - %20 Test olarak ayırdım. Modeller üzerinde eğittim
 
 <img width="467" height="67" alt="o4" src="https://github.com/user-attachments/assets/6c99ca7c-7bd6-4610-80f8-9dab7cc6d20b" />
 
+# Model Karşılaştırılması
 
+<img width="646" height="436" alt="image" src="https://github.com/user-attachments/assets/98bf2649-d8a6-4bad-a872-10e10cd7c1ce" />
+
+# Features'ların Tüketimdeki Etkileri
+
+<img width="2970" height="2365" alt="feature_importance" src="https://github.com/user-attachments/assets/1e1b4e47-0b56-4bed-a1b5-7be3d8f13cf0" />
+
+# Modellerin Eğitilme Süreleri
+
+<img width="2970" height="1769" alt="training_time" src="https://github.com/user-attachments/assets/9faa8ae4-283b-4155-8a99-3797351c8033" />
+
+# Genel Değerlendirme
+Gerçekçi bir anomali yaklaşımı kullanıldı
+
+Pivot table ile istatistiksel zemin oluşturuldu
+
+3 model karşılaştırıldı
+
+Proje, akıllı evler, enerji verimliliği ve anormallik tespiti sunmaktadır.
+
+# Geliştiren
+Ahmet Sefa Ünal
 
 
 
