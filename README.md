@@ -1,3 +1,6 @@
+# Sertifika
+<img width="1308" height="868" alt="image" src="https://github.com/user-attachments/assets/05549825-2db0-4c6d-b60b-e100c7d89f67" />
+
 # Akıllı Ev Enerji Tüketimi Analizi
 Bu projede akıllı ev enerji tüketim verileri üzerinden elektrik tüketimlerini tespit etmeyi amaçlayan bir makine öğrenmesi uygulamasıdır. Projede zaman, hava durumu, geçmiş tüketim verilerini karşılaştırarak tüketim ort üzerinde(anomali) olup olmadığı analiz edilmiştir.
 
