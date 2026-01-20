@@ -40,7 +40,7 @@ Smart Home Dataset.csv
 ...
 
 # Pivot Kullanımı
-Bu projede anomalinin tanımı rasgele yapılmamıştır. Bunun yerine beklenen (baseline) tüketim hesaplanmıştır.
+Tüketimde anomali tanımı için pivotlar kullanılmıştır. Bu pivotlar "saat", "sıcaklık" ve "nem" olarak belirlenmiştir. Bu projede anomalinin tanımı rasgele yapılmamıştır. Bunun yerine beklenen (baseline) tüketim hesaplanmıştır.
 
 -Oluşturulan Pivot Tabloları-
 
